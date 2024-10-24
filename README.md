@@ -66,7 +66,7 @@ python app.py
 
 This command runs the script and queries the CSV file using the LangChain agent. For example, you can ask:
 
-> "Which country has the highest population in Africa?"
+> "Which country has the highest GDP?"
 
 ## Example Output
 
