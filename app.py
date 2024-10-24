@@ -21,4 +21,4 @@ agent = create_csv_agent(
     allow_dangerous_code=True
 )
 
-agent.run("Which country has the higest population in africa?")
+agent.run("Which country has the higest GDP?")
